@@ -4,9 +4,7 @@ This project combines computer vision and sound detection to control LED lights 
 
 ## Demo
 
-<video src="video.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+https://github.com/nishanroy561/Hand-Gesture-and-Sound-Control-LED-System/raw/main/video.mp4
 
 ## Features
 
