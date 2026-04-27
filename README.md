@@ -3,7 +3,9 @@
 This project combines computer vision and sound detection to control LED lights using hand gestures and finger snaps. It uses OpenCV for hand tracking and PyAudio for sound detection.
 
 ## Demo
-D:\Hackathon\Hand-Gesture-and-Sound-Control-LED-System\video.mp4
+<video src="./video.mp4" controls autoplay loop muted playsinline width="100%"></video>
+
+If the video does not render in your viewer, open [video.mp4](video.mp4) directly.
 
 ## Features
 
